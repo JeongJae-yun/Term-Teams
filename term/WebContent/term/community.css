@@ -1,0 +1,218 @@
+@charset "utf-8";
+body {
+	font-size: 15px;
+	color: #000;
+	text-decoration: none;
+}
+#wrap {
+	float: left;
+	height: 180px;
+	width: 1900px;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+#main_header {
+	float: left;
+	height: 180px;
+	width: 1900px;
+	margin-top: 5px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #0d2166;
+	
+}
+#header1 {
+	float: left;
+	height: 180px;
+	width: 875px;
+}
+.menu1 {
+	float: left;
+	height: 100px;
+	width: 200px;
+	margin-top: 80px;
+	margin-left: 160px;
+}
+.menu2 {
+	float: right;
+	height: 100px;
+	width: 200px;
+	margin-top: 80px;
+	margin-right: 155px;
+}
+#logo {
+	float: left;
+	height: 180px;
+	width: 150px;
+}
+.mainlogo {
+	float: left;
+	height: 125px;
+	width: 150px;
+	margin-top: 25px;
+}
+
+#header2 {
+	float: right;
+	height: 180px;
+	width: 875px;
+}
+#submenu {
+	float: left;
+	height: 50px;
+	width: 875px;
+}
+.login {
+	float: left;
+	height: 45px;
+	width: 105px;
+	margin-left: 500px;
+}
+.join {
+	float: left;
+	height: 45px;
+	width: 120px;
+}
+.sns {
+	float: left;
+	height: 45px;
+	width: 150px;
+}
+
+#mainmenu {
+	float: left;
+	height: 130px;
+	width: 875px;
+}
+.menu3 {
+	float: left;
+	height: 100px;
+	width: 200px;
+	margin-top: 30px;
+	margin-left: 160px;
+}
+.menu4 {
+	float: right;
+	height: 100px;
+	width: 200px;
+	margin-top: 30px;
+	margin-right: 155px;
+}
+#main {
+	float: left;
+	height: 2500px;
+	width: 1900px;
+}
+#mainimg {
+	float: left;
+	height: 1000px;
+	width: 1900px;
+	background-image: url(images/community.jpg);
+}
+#communitylogo {
+	float: left;
+	height: 180px;
+	width: 530px;
+	margin-top: 420px;
+	margin-left: 640px;
+}
+.communitystyle {
+	font-size: 125px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+}
+#communitylist {
+	float: left;
+	height: 1500px;
+	width: 1900px;
+}
+#buttonlist {
+	float: left;
+	height: 100px;
+	width: 1900px;
+	margin-top: 30px;
+}
+.buttonstyle {
+	font-size: 70px;
+	color: #000;
+	text-decoration: none;
+	text-align: center;
+	float: left;
+	height: 100px;
+	width: 600px;
+	font-family: "맑은 고딕";
+	margin-left: 15px;
+}
+#boardlist {
+	float: left;
+	height: 500px;
+	width: 1700px;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+#bulletiontable {
+	float: left;
+	width: 1700px;
+	height: 70px;
+}
+#bulletiontable tr th {
+	font-weight: bold;
+	font-size: 25px;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #999;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #999;
+}
+#bulletiontable tr td {
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #999;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #999;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #999;
+}
+#write {
+	float: right;
+	height: 30px;
+	width: 150px;
+	margin-top: 15px;
+	margin-right: 105px;
+	border: 0.5px solid #CCC;
+}
+#write a {
+	color: #000;
+	text-decoration: none;
+}
+#write a:hover {
+	color: #00F;
+	text-decoration: underline;
+}
+#footer {
+   float: left;
+   height: 300px;
+   width: 1900px;
+   margin-top: 100px;
+   background-image: url(images/footer.jpg);
+}
+#footer_info {
+   
+   height: 150px;
+   width: 1900px;
+   margin-left: 0px;
+   margin-top: 150px;
+   color: #FFF;
+   font-family: "a옛날사진관2";
+   font-size: 9px;
+   text-align: center;
+}
+#footer_info p {
+   font-family: "a옛날사진관2";
+   font-size: 10px;
+   color: #FFF;
+}

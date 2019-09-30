@@ -1,0 +1,231 @@
+@charset "utf-8";
+
+#wrap {
+	float: left;
+	height: 180px;
+	width: 1900px;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+#main_header {
+	float: left;
+	height: 180px;
+	width: 1900px;
+	margin-top: 5px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #0d2166;
+}
+#header1 {
+	float: left;
+	height: 180px;
+	width: 875px;
+}
+.menu1 {
+	float: left;
+	height: 100px;
+	width: 200px;
+	margin-top: 80px;
+	margin-left: 160px;
+}
+.menu2 {
+	float: right;
+	height: 100px;
+	width: 200px;
+	margin-top: 80px;
+	margin-right: 155px;
+}
+#logo {
+	float: left;
+	height: 180px;
+	width: 150px;
+}
+
+#header2 {
+	float: right;
+	height: 180px;
+	width: 875px;
+}
+#submenu {
+	float: left;
+	height: 50px;
+	width: 875px;
+}
+.login {
+	float: left;
+	height: 45px;
+	width: 105px;
+	margin-left: 500px;
+}
+.join {
+	float: left;
+	height: 45px;
+	width: 120px;
+}
+.sns {
+	float: left;
+	height: 45px;
+	width: 150px;
+}
+
+#mainmenu {
+	float: left;
+	height: 130px;
+	width: 875px;
+}
+.menu3 {
+	float: left;
+	height: 100px;
+	width: 200px;
+	margin-top: 30px;
+	margin-left: 160px;
+}
+.menu4 {
+	float: right;
+	height: 100px;
+	width: 200px;
+	margin-top: 30px;
+	margin-right: 155px;
+}
+body {
+}
+#page_main {
+	float: left;
+	height: 700px;
+	width: 1900px;
+	background-image: none;
+	
+	margin-top: 30px;
+}
+#outer {
+	float: left;
+	height: 1000px;
+	width: 1900px;
+	margin-top: 20px;
+}
+.outer1 {
+	float: left;
+	height: 420px;
+	width: 350px;
+	margin-top: 90px;
+	margin-left: 90px;
+	font-family: "a옛날목욕탕B";
+	text-transform: none;
+	color: #000;
+	text-decoration: none;
+	font-size: 15px;
+	
+}
+.outer1 a {
+	text-transform: none;
+	color: #000;
+	text-decoration: none;
+}
+
+#outerlogo {
+	float: left;
+	height: 100px;
+	width: 250px;
+	font-family: "a옛날목욕탕B";
+	font-size: 60px;
+}
+#search2 select {
+	height: 30px;
+	width: 150px;
+}
+#search2 input {
+	height: 40px;
+	width: 300px;
+}
+#search2 #button {
+	height: 50px;
+	width: 50px;
+}
+.outer a {
+	color: #000;
+	text-decoration: none;
+}
+.T-shirt a {
+	color: #000;
+	text-decoration: none;
+}
+.pants a {
+	color: #000;
+	text-decoration: none;
+}
+.acc a {
+	color: #000;
+	text-decoration: none;
+}
+
+.T-shirt {
+	float: left;
+	height: 100px;
+	width: 270px;
+	font-family: "a옛날목욕탕B";
+	font-size: 30px;
+	color: #FFF;
+	text-align: center;
+	border-right-style: solid;
+	border-right-color: #E9E9E9;
+}
+.pants {
+	float: left;
+	height: 100px;
+	width: 270px;
+	margin-left: 150px;
+	font-family: "a옛날목욕탕B";
+	font-size: 30px;
+	color: #FFF;
+	text-align: center;
+	border-right-style: solid;
+	border-right-color: #E9E9E9;
+}
+.acc {
+	float: left;
+	height: 100px;
+	width: 270px;
+	font-family: "a옛날목욕탕B";
+	font-size: 30px;
+	color: #FFF;
+	text-align: center;
+	border-right-style: solid;
+	border-right-color: #E9E9E9;
+}
+.outer {
+	float: left;
+	height: 100px;
+	width: 270px;
+	font-family: "a옛날목욕탕B";
+	font-size: 30px;
+	color: #FFF;
+	text-align: center;
+	border-right-style: solid;
+	border-right-color: #E9E9E9;
+	margin-left: 300px;
+}
+#clothesInfo {
+	float: left;
+	width: 1900px;
+}
+#search1 {
+	float: left;
+	height: 100px;
+	width: 700px;
+	margin-left: 600px;
+	margin-top:40px;
+}
+.btn {
+	border: 1px solid #CCC;
+	-webkit-transition: all;
+	-moz-transition: all;
+	-ms-transition: all;
+	-o-transition: all;
+	transition: all;
+	background-color: #F8FBFC;
+	height: 50px;
+	width: 200px;
+	font-weight: bold;
+	color: #666;
+	font-size: 30px;
+}

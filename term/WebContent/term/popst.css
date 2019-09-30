@@ -1,0 +1,14 @@
+@charset "utf-8";
+body {
+	font-family: "LG PC";
+	font-size: 18px;
+	color: #000;
+}
+.mainimg {
+	height: 420px;
+	width: 600px;
+}
+.floata {
+	height: 50px;
+	width: 600px;
+}

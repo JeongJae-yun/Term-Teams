@@ -1,0 +1,191 @@
+@charset "utf-8";
+#footer {
+	float: left;
+	height: 300px;
+	width: 1900px;
+	margin-top: 0px;
+	background-image: url(images/footer.jpg);
+}
+#footer_info {
+	float: left;
+	height: 150px;
+	width: 1900px;
+	margin-left: 0px;
+	margin-top: 150px;
+	color: #FFF;
+	font-family: "a옛날목욕탕B";
+	font-size: 9px;
+	text-align: center;
+}
+#footer_info p {
+	font-family: "a옛날목욕탕B";
+	font-size: 10px;
+	color: #FFF;
+}
+
+#main_header {
+	float: left;
+	height: 180px;
+	width: 1900px;
+	margin-top: 5px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #0d2166;
+	background-color: #FFFFFF;
+}
+#header1 {
+	float: left;
+	height: 180px;
+	width: 860px;
+}
+.menu1 {
+	float: left;
+	height: 100px;
+	width: 200px;
+	margin-top: 80px;
+	margin-left: 160px;
+}
+.menu2 {
+	float: right;
+	height: 100px;
+	width: 200px;
+	margin-top: 80px;
+	margin-right: 155px;
+}
+#logo {
+	float: left;
+	height: 180px;
+	width: 180px;
+}
+
+
+
+
+
+
+
+
+
+
+#header2 {
+	float: right;
+	height: 180px;
+	width: 860px;
+}
+#submenu {
+	float: left;
+	height: 50px;
+	width: 875px;
+}
+.login {
+	float: left;
+	height: 45px;
+	width: 105px;
+	margin-left: 435px;
+}
+.join {
+	float: left;
+	height: 45px;
+	width: 120px;
+}
+.sns {
+	float: left;
+	height: 45px;
+	width: 150px;
+}
+
+#mainmenu {
+	float: left;
+	height: 130px;
+	width: 875px;
+}
+.menu3 {
+	float: left;
+	height: 100px;
+	width: 250px;
+	margin-top: 30px;
+	margin-left: 160px;
+}
+.menu4 {
+	float: right;
+	height: 100px;
+	width: 200px;
+	margin-top: 30px;
+	margin-right: 155px;
+}
+#wrap {
+	float: left;
+	height: 0px;
+	width: 1900px;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+body {
+}
+#page_center {
+	float: left;
+	
+	width: 1000px;
+	background-image: none;
+	background-color: #FFFFFF;
+	font-family: "a옛날목욕탕B";
+	margin-left: 550px;
+	margin-top: 20px;
+}
+#page_center a {
+	
+	font-family: "a옛날목욕탕B";
+	text-transform: none;
+	color: #000;
+	text-decoration: none;
+	font-size: 20pt;
+}
+.registerform {
+	float: left;
+	height: 500px;
+	width: 800px;
+	margin-top: 100px;
+	margin-left: 600px;
+}
+#page_m {
+	float: left;
+	height: 100px;
+	width: 1900px;
+	font-family: "a옛날목욕탕B";
+	font-size: 90pt;
+	text-align: center;
+	background-color: #ECECEC;
+}
+
+#form1 table {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#form1 table tr td {
+	border-right-style: none;
+	border-bottom-style: dotted;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-top-style: dotted;
+	border-left-style: none;
+	border-top-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	height: 50px;
+	font-family: "a옛날목욕탕B";
+	font-size: 15pt;
+}
+#form1 table th {
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: none;
+	border-top-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+	width: 150px;
+	font-family: "a옛날목욕탕B";
+	font-size: 15pt;
+}

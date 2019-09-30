@@ -1,0 +1,300 @@
+@charset "utf-8";
+body {
+	font-size: 18px;
+	color: #000;
+	text-decoration: none;
+}
+#wrap {
+	float: left;
+	height: 180px;
+	width: 1900px;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+#main_header {
+	float: left;
+	height: 180px;
+	width: 1900px;
+	margin-top: 5px;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #0d2166;
+	
+}
+#header1 {
+	float: left;
+	height: 180px;
+	width: 875px;
+}
+.menu1 {
+	float: left;
+	height: 100px;
+	width: 200px;
+	margin-top: 80px;
+	margin-left: 160px;
+}
+.menu2 {
+	float: right;
+	height: 100px;
+	width: 200px;
+	margin-top: 80px;
+	margin-right: 155px;
+}
+#logo {
+	float: left;
+	height: 180px;
+	width: 150px;
+}
+.mainlogo {
+	float: left;
+	height: 125px;
+	width: 150px;
+	margin-top: 25px;
+}
+
+#header2 {
+	float: right;
+	height: 180px;
+	width: 875px;
+}
+#submenu {
+	float: left;
+	height: 50px;
+	width: 875px;
+}
+.login {
+	float: left;
+	height: 45px;
+	width: 105px;
+	margin-left: 500px;
+}
+.join {
+	float: left;
+	height: 45px;
+	width: 120px;
+}
+.sns {
+	float: left;
+	height: 45px;
+	width: 150px;
+}
+
+#mainmenu {
+	float: left;
+	height: 130px;
+	width: 875px;
+}
+.menu3 {
+	float: left;
+	height: 100px;
+	width: 200px;
+	margin-top: 30px;
+	margin-left: 160px;
+}
+.menu4 {
+	float: right;
+	height: 100px;
+	width: 200px;
+	margin-top: 30px;
+	margin-right: 155px;
+}
+#main {
+	float: left;
+	width: 1900px;
+}
+#main_banner {
+	float: left;
+	height: 757px;
+	width: 1700px;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+
+.mainimg {
+	float: left;
+	height: 250px;
+	width: 1900px;
+}
+
+
+
+
+
+
+
+#footer {
+	float: left;
+	height: 300px;
+	width: 1900px;
+	margin-top: 5px;
+	background-image: url(images/footer.jpg);
+}
+#footer_info {
+   float: left;
+   height: 150px;
+   width: 1900px;
+   margin-left: 0px;
+   margin-top: 150px;
+   color: #FFF;
+   font-family: "a옛날사진관2";
+   font-size: 9px;
+}
+#footer_info p {
+	font-family: "a옛날사진관2";
+	font-size: 10px;
+	color: #FFF;
+	text-align: center;
+}
+#mainImg {
+	float: left;
+	height: 900px;
+	width: 1900px;
+}
+#product {
+	float: left;
+	height: 600px;
+	width: 1900px;
+	margin-top: 90px;
+}
+
+
+
+#banner123 {
+	float: right;
+	height: 30px;
+	width: 90px;
+}
+.ban1 {
+	float: left;
+	height: 30px;
+	width: 30px;
+	font-family: "a옛날사진관5";
+	color: #000;
+	background-color: #FFF;
+	text-align: center;
+}
+
+
+
+
+#productlogo {
+	float: left;
+	height: 50px;
+	width: 230px;
+	margin-top: 5px;
+	margin-left: 10px;
+}
+#newproduct {
+	float: left;
+	height: 500px;
+	width: 1900px;
+	margin-top: 15px;
+	border-top-style: solid;
+	border-top-color: #EBEBEB;
+}
+.new_clothes {
+	float: left;
+	height: 70px;
+	width: 800px;
+	margin-left: 540px;
+	font-family: "a옛날사진관4";
+	font-size: 22px;
+	text-align: center;
+	border-right-style: none;
+	border-left-style: none;
+	border-right-color: #EFEFEF;
+	border-left-color: #EFEFEF;
+	border-top-style: none;
+	border-bottom-style: none;
+}
+
+span {
+	color: #F00;
+}
+.clothes1 {
+	float: left;
+	height: 420px;
+	width: 350px;
+	margin-top: 30px;
+	margin-left: 90px;
+}
+#m-banner {
+	float: left;
+	width: 1700px;
+	margin-left: 150px;
+	margin-top: 40px;
+}
+.m_ban4 {
+	float: left;
+	height: 400px;
+	width: 400px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.m_ban1 {
+	float: left;
+	height: 400px;
+	width: 400px;
+	margin-top: 5px;
+}
+
+
+.m_ban2 {
+	height: 400px;
+	width: 400px;
+	float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+.m_ban3 {
+	float: left;
+	height: 400px;
+	width: 400px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+#m-banner2 {
+	float: left;
+	height: 782px;
+	width: 1700px;
+	margin-left: 100px;
+	margin-top: 40px;
+	background-color: #FFF;
+	background-image: url(images/45.PNG);
+}
+.termteams {
+	float: left;
+	height: 150px;
+	width: 900px;
+	margin-top: 50px;
+	margin-left: 400px;
+	font-family: "a옛날사진관5";
+	font-size: 60px;
+	color: #FFF;
+	text-align: center;
+}
+#m-banner3 {
+	float: left;
+	width: 1700px;
+	margin-left: 150px;
+	margin-top: 30px;
+}
+#m-baaner2-1 {
+	float: left;
+	height: 50px;
+	width: 500px;
+	margin-top: 10px;
+	margin-left: 700px;
+	text-align: center;
+}
+
+
+
+#info .info1 p {
+	font-size: 15px;
+	font-family: "a옛날사진관3";
+	text-align: center;
+	color: #CCC;
+}

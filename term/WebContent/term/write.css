@@ -1,0 +1,248 @@
+@charset "utf-8";
+body {
+	font-size: 18px;
+	color: #000;
+	text-decoration: none;
+}
+#wrap {
+	float: left;
+	height: 180px;
+	width: 1900px;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+#main_header {
+	float: left;
+	height: 180px;
+	width: 1900px;
+	margin-top: 5px;v
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #0d2166;
+
+}
+#header1 {
+	float: left;
+	height: 180px;
+	width: 875px;
+}
+.menu1 {
+	float: left;
+	height: 100px;
+	width: 200px;
+	margin-top: 80px;
+	margin-left: 160px;
+}
+.menu2 {
+	float: right;
+	height: 100px;
+	width: 200px;
+	margin-top: 80px;
+	margin-right: 155px;
+}
+#logo {
+	float: left;
+	height: 180px;
+	width: 150px;
+}
+.mainlogo {
+	float: left;
+	height: 125px;
+	width: 150px;
+	margin-top: 25px;
+}
+
+#header2 {
+	float: right;
+	height: 180px;
+	width: 875px;
+}
+#submenu {
+	float: left;
+	height: 50px;
+	width: 875px;
+}
+.login {
+	float: left;
+	height: 45px;
+	width: 105px;
+	margin-left: 500px;
+}
+.join {
+	float: left;
+	height: 45px;
+	width: 120px;
+}
+.sns {
+	float: left;
+	height: 45px;
+	width: 150px;
+}
+
+#mainmenu {
+	float: left;
+	height: 130px;
+	width: 875px;
+}
+.menu3 {
+	float: left;
+	height: 100px;
+	width: 200px;
+	margin-top: 30px;
+	margin-left: 160px;
+}
+.menu4 {
+	float: right;
+	height: 100px;
+	width: 200px;
+	margin-top: 30px;
+	margin-right: 155px;
+}
+#main {
+	float: left;
+	height: 2500px;
+	width: 1900px;
+}
+#mainimg {
+	float: left;
+	height: 1000px;
+	width: 1900px;
+	background-image: url(images/community.jpg);
+}
+#writetag {
+	float: left;
+	height: 180px;
+	width: 530px;
+	margin-top: 420px;
+	margin-left: 730px;
+}
+.communitystyle {
+	font-size: 125px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+}
+#communitylist {
+	float: left;
+	height: 1500px;
+	width: 1900px;
+}
+#buttonlist {
+	float: left;
+	height: 100px;
+	width: 1900px;
+	margin-top: 30px;
+	margin-left: 200px;
+}
+#writeMessage {
+	float: left;
+	height: 100px;
+	width: 480px;
+	margin-left: 20px;
+}
+.message {
+	font-size: 47px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+}
+#writelist {
+	float: left;
+	height: 650px;
+	width: 870px;
+	margin-top: 100px;
+	margin-left: 470px;
+}
+#writelogo {
+	float: left;
+	height: 50px;
+	width: 350px;
+	margin-top: 150px;
+	margin-left: 750px;
+}
+#writeboard {
+	float: left;
+	height: 650px;
+	width: 730px;
+	margin-top: 25px;
+	margin-left: 580px;
+}
+#writetable {
+	float: left;
+	height: 650px;
+	width: 730px;
+}
+#writetable tr th {
+	text-align: center;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #666;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #666;
+}
+
+#writetable tr td {
+	padding-left: 5px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #666;
+}
+
+#writebtn {
+	font-size: 27px;
+	font-weight: bold;
+	color: #000;
+	text-decoration: none;
+	height: 47px;
+	width: 150px;
+	border: 0.3px solid #999;
+	background-color: #CCCCCC;
+}
+#context {
+	height: 270px;
+	width: 570px;
+}
+.inputstyle {
+	float: left;
+	height: 30px;
+	width: 450px;
+}
+#footer {
+   float: left;
+   height: 300px;
+   width: 1900px;
+   margin-top: 100px;
+   background-image: url(images/footer.jpg);
+}
+#footer_info {
+   
+   height: 150px;
+   width: 1900px;
+   margin-left: 0px;
+   margin-top: 150px;
+   color: #FFF;
+   font-family: "a옛날사진관2";
+   font-size: 9px;
+   text-align: center;
+}
+#footer_info p {
+   font-family: "a옛날사진관2";
+   font-size: 10px;
+   color: #FFF;
+}
+.btn {
+	border: 1px solid #CCC;
+	-webkit-transition: all;
+	-moz-transition: all;
+	-ms-transition: all;
+	-o-transition: all;
+	transition: all;
+	background-color: #F8FBFC;
+	height: 50px;
+	width: 200px;
+	font-weight: bold;
+	color: #666;
+	font-size: 30px;
+	margin-left:250px;
+}
