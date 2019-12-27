@@ -3,7 +3,9 @@ Model 1 방식으로 구성된 쇼핑몰 홈페이지
 
 [개발환경]
 Tool - Eclipse EE버전, jdk7
+
 Server - Tomcat 8 
+
 DB - Mysql
 
 [구현방식]
